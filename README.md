@@ -29,18 +29,24 @@ Conforme os requisitos da atividade, as tarefas foram divididas individualmente 
 1. Clone este repositório:
 ```bash
 git clone [https://github.com/SEU-USUARIO/crud-next-integracao.git](https://github.com/SEU-USUARIO/crud-next-integracao.git)
-Acesse a pasta do projeto:
+```
 
-Bash
+2. Acesse a pasta do projeto:
+```bash
 cd crud-next-integracao
-Instale as dependências:
+```
 
-Bash
+3. Instale as dependências:
+```bash
 npm install
-Inicie o servidor de desenvolvimento:
+```
 
-Bash
+4. Inicie o servidor de desenvolvimento:
+```bash
 npm run dev
-Abra o navegador e acesse: http://localhost:3000
+```
 
-Desenvolvido para a atividade prática de Integração de Sistemas.
+5. Abra o navegador e acesse: [http://localhost:3000](http://localhost:3000)
+
+---
+*Desenvolvido para a atividade prática de Integração de Sistemas.*
